@@ -1,4 +1,4 @@
-package com.example.demo.com.aulapabloramon.av001.resourses;
+package com.example.demo.com.aulapabloramon.av001;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
